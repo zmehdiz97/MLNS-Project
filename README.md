@@ -1,2 +1,7 @@
-# MLNS-Project
-MLNS-Project-ReID 
+# MLNS-Final-Project
+
+In this project, we explore several approaches to optimise target re-identification (re-ID) as a re-ranking problem. Our work consisted in trying different methods to re-rank the re-ID results. 
+
+# Dataset 
+
+We will testing our work on Market-1501 and VeriWild datasets 

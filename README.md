@@ -28,7 +28,5 @@ datasets/
         feat.pkl
         ids.pkl
 ``` 
-2. ```bash
-        python run.py
-``` 
+2. python run.py
 Ps: Reranking runs only on GPU

@@ -9,3 +9,26 @@ We will be testing our work on Market-1501 and VeriWild
 # Requirements 
 
 * dgl
+
+# GNN based reranking
+The code has been included in `/extension`. To compile it:
+
+```shell
+cd extension
+sh make.sh
+```
+To run reranking evaluation:
+1. Place dataset files under 'dataset/' folder:
+The dataset structure should be like:
+
+```bash
+datasets/
+    Market/
+        camids.pkl
+        feat.pkl
+        ids.pkl
+``` 
+2. ```bash
+        python run.py
+``` 
+Ps: Reranking runs only on GPU

@@ -1,0 +1,3 @@
+# ninja log v5
+2	29216	1649455630437191600	/mnt/c/Users/mehdi/OneDrive/Documents/GPU-Re-Ranking/extension/propagation/build/temp.linux-x86_64-3.8/gnn_propagate.o	bc87894bbe9259a
+2	49078	1649455650309731200	/mnt/c/Users/mehdi/OneDrive/Documents/GPU-Re-Ranking/extension/propagation/build/temp.linux-x86_64-3.8/gnn_propagate_kernel.o	94a016c873c1e56b

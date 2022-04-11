@@ -2,7 +2,7 @@ import numpy as np
 import pickle 
 import torch
 import random
-from utils import evaluate_ranking_list, eval_metrics
+from evaluation_metrics import eval_metrics
 from gnn_reranking import gnn_reranking
 
 

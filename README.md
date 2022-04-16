@@ -10,6 +10,8 @@ We will be testing our work on Market-1501 and VeriWild
 # Requirements 
 
 * dgl
+* Pytorch
+* scikit-learn
 
 # GNN based reranking
 The code has been included in `/extension`. To compile it:
@@ -31,3 +33,6 @@ datasets/
 ``` 
 2. python run.py
 Ps: Reranking runs only on GPU
+
+# Members
+Chady Raach Mehdi Zemni Marah Gamdou

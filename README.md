@@ -1,4 +1,5 @@
 # MLNS-Final-Project
+[Report](https://github.com/zmehdiz97/MLNS-Project/blob/main/MLNS.pdf)
 
 In this project, we explore several approaches to optimise target re-identification (re-ID) as a re-ranking problem. Our work consisted in trying different methods to re-rank the re-ID results. 
 
